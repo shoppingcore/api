@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/ShoppingCoreApi/ShoppingCoreApi.csproj" />
+  </Folder>
+  <Folder Name="/tests/" />
+</Solution>
