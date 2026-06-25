@@ -49,4 +49,5 @@
  ```
  dotnet test
  ```
+dotnet run
 
