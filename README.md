@@ -1,5 +1,5 @@
- # ShoppingCore API
- The .NET 10 web API backend for the ShoppingCore e-commerce platform ecosystem.
+ # BankingCore API
+ The .NET 10 web API backend for the BankingCore banking platform ecosystem.
 
  ## Prerequisites
 
@@ -10,11 +10,11 @@
  Plaintext
 
  ```
- ├── ShoppingCoreApi.slnx      # Modern XML solution file
+ ├── BankingCoreApi.slnx      # Modern XML solution file
  ├── src/
- │   └── ShoppingCoreApi/      # ASP.NET Core Web API project
+ │   └── BankingCoreApi/      # ASP.NET Core Web API project
  └── tests/
-	 └── ShoppingCoreApi.Tests/# xUnit test project
+ 	 └── BankingCoreApi.Tests/# xUnit test project
  ```
 
  ## Getting Started
@@ -23,7 +23,7 @@
  Bash
 
  ```
- git clone https://github.com/shoppingcore/api.git
+ git clone https://github.com/bankingcore/api.git
  cd api
  ```
 
@@ -38,7 +38,7 @@
  Bash
 
  ```
- dotnet run --project src/ShoppingCoreApi/ShoppingCoreApi.csproj
+ dotnet run --project src/BankingCoreApi/BankingCoreApi.csproj
  ```
 
  ## Running Tests
