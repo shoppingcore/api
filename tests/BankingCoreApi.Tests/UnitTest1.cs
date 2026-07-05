@@ -1,4 +1,4 @@
-﻿namespace ShoppingCoreApi.Tests;
+﻿namespace BankingCoreApi.Tests;
 
 public class UnitTest1
 {
